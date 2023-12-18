@@ -10,7 +10,8 @@
 }
 
 .app__title {
-    text-shadow: 0.1em 0.1em #0002;
+
+    text-shadow: 1px 3px 5px rgba(0, 0, 0, 0.3);
 }
 
 .app__card {
@@ -25,6 +26,7 @@
     line-height: 1.4;
     text-align: center;
     margin-bottom: 1.5em;
+    font-size: 1.4em;
 }
 
 .app__btn {
@@ -41,4 +43,25 @@
 .app__btn:hover {
     transform: scale(1.1);
     box-shadow: 0 0 1em mediumblue;
+}
+.app__author {
+    font-size: 2em;
+    background: linear-gradient(blue, violet);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    animation: text 5s linear infinite;
+    text-align: center;
+    margin: 0.5em;
+    padding-bottom: 5%;
+}
+
+@keyframes text {
+    0% {
+    filter: hue-rotate(0deg);
+    }
+    100% {
+        filter: hue-rotate(360deg);
+        }
 }

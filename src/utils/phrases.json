@@ -1,62 +1,350 @@
 [
-    {
-      "phrase": "Lo que sospechabas es verdad, procura ser amable con ellos, pues esta bondad ayudará a que todo mejore.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "Se te cumplirá un hermoso sueño y veras como otros sueños se hacen realidad.",
-      "author": "Proverbio Japones"
-      },
-    {
-      "phrase": "La realidad del ser humano es su pensamiento, no su cuerpo material.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "Te casarás con un atleta profesional. Si las competencias de comer pueden ser consideradas un deporte.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "Valiente es aquel que ama..",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "No tienes que ser más rápido que el oso, solo tienes que ser más rápido que el chico más lento que corre de él.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "No te tomes la vida demasiado en serio. No saldrás de ella con vida.",
-      "author": "proverbia.net"
-    },
-    {
-      "phrase": "Mañana puede ser muy tarde para disfrutar lo que tienes hoy.",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "Cuando busques lo que mas deseas, recuerda hacer tu mejor esfuerzo.",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "No olvides que un amigo es un regalo que te das a ti mismo.",
-      "author": "ajescudero"
-    },
-     {
-      "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo.",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "Una reputación de mil años puede depender de la conducta de una hora",
-      "author": "Proverbio Japones"
-      },
-    {
-      "phrase": "Siente la felicidad que espera por ti y no olvides atraparla para mantenerla contigo.",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo",
-      "author": "ajescudero"
-    },
-    {
-      "phrase": "No todo el mundo puede recibir las mismas cosas. Se practico.",
-      "author": "ajescudero"
-    }
+  {
+    "phrase": " Antes de embarcarte en un viaje de una venganza, cava dos tumbas",
+    "author": "Confucio"
+  },
+  {
+    "phrase": " Los defectos y fallas de la mente son como heridas en el cuerpo, Después de que se haya tomado todo el cuidado imaginable para curarlas, aun así quedará una cicatriz",
+    "author": "François de la Rochefoucauld"
+  },
+  {
+    "phrase": " Los animales salvajes nunca matan por deporte, El hombre es el único animal para quien la tortura y la muerte de sus semejantes es divertida en sí misma",
+    "author": "James Anthony Froud"
+  },
+  {
+    "phrase": " Los sueños de la razón producen monstruos",
+    "author": "Francisco de Goya"
+  },
+  {
+    "phrase": " Dios envía la carne y el diablo envía los cocineros",
+    "author": "Thomas Deloney"
+  },
+  {
+    "phrase": " La creencia en una fuente sobrenatural del mal no es necesaria, Los hombres por sí mismos son muy capaces de cualquier maldad",
+    "author": "Joseph Conrad"
+  },
+  {
+    "phrase": " Todo es una adivinanza y la clave de una adivinanza… es otra adivinanza",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "phrase": " Inténtalo, vuelve a fallar, Falla mejor",
+    "author": "Samuel Beckett"
+  },
+  {
+    "phrase": " No lo intentes, hazlo o no lo hagas",
+    "author": "Yoda"
+  },
+  {
+    "phrase": " Cuanto más atrás puedas ver, más adelante verás",
+    "author": "Winston Churchill"
+  },
+  {
+    "phrase": " Cuando miras largo tiempo al interior de un abismo, el abismo mira te mira a ti",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "phrase": " La imaginación es más importante que el conocimiento, El conocimiento es limitado, La imaginación envuelve al mundo",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": " No te molestes solo en ser mejor que tus contemporáneos o predecesores, Trata de ser mejor que tú mismo",
+    "author": "William Faulkner"
+  },
+  {
+    "phrase": " Casi toda la estupidez de nuestra conducta surge de la imitación de aquellos a quienes no podemos parecernos",
+    "author": "Samuel Johnson"
+  },
+  {
+    "phrase": " No olvides que no puedo verme a mí mismo, mi papel se limita a ser el de quien se mira en el espejo",
+    "author": "Jacques Rigaut"
+  },
+  {
+    "phrase": " Cuando es herido un hombre bueno, todos los que se consideran buenos deben sufrir con él",
+    "author": "Eurípides"
+  },
+  {
+    "phrase": " Cuando hay exceso de amor, no trae al hombre ni honor ni dignidad",
+    "author": "Eurípides"
+  },
+  {
+    "phrase": " La irracionalidad de una cosa no es un argumento contra su existencia, sino una condición de ella",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "phrase": " Nada es tan común como el deseo de ser notable",
+    "author": "William Shakespeare"
+  },
+  {
+    "phrase": " Con los zorros, debemos ser un zorro",
+    "author": "Thomas Fuller"
+  },
+  {
+    "phrase": " Una creencia no es simplemente una idea que la mente posee, Es una idea que posee la mente",
+    "author": "Robert Oxton Bolton"
+  },
+  {
+    "phrase": " Desafortunadamente, una superabundancia de sueños se paga con un potencial crecimiento de pesadillas",
+    "author": "Sir Peter Ustinov"
+  },
+  {
+    "phrase": " Las ideologías nos separan, Los sueños y la angustia nos unen",
+    "author": "Eugene Ionesco"
+  },
+  {
+    "phrase": " Las más amargas lágrimas derramadas sobre las tumbas son por las palabras que quedaron sin decir y por lo que quedó sin hacer",
+    "author": "Harriet Beecher Stowe"
+  },
+  {
+    "phrase": " El mal es siempre mediocre y humano, Y comparte nuestra cama… y come en nuestra mesa",
+    "author": "W, Auden"
+  },
+  {
+    "phrase": " No midas el trabajo hasta que acabe el día y esté realizado el trabajo",
+    "author": "Elizabeth Barrett Browning"
+  },
+  {
+    "phrase": " Lo que es comida para unos, es veneno amargo para otros",
+    "author": "Lucrecio"
+  },
+  {
+    "phrase": " Antes de embarcarte en un viaje de una venganza, cava dos tumbas",
+    "author": "Confucio"
+  },
+  {
+    "phrase": " El que derrame sangre del hombre por el hombre, su sangre será derramada",
+    "author": "Génesis 9:6"
+  },
+  {
+    "phrase": " Lo que hacemos por nosotros mismos muere con nosotros, Lo que hacemos por los demás y por el mundo, permanece y es inmortal",
+    "author": "Albert Pike"
+  },
+  {
+    "phrase": " Para que la luz brille tan intensamente, la oscuridad debe estar presente",
+    "author": "Sir Francis Bacon"
+  },
+  {
+    "phrase": " Al final, no son los años en tu vida los que cuentan, Es la vida en tus años",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "phrase": " El individuo siempre ha tenido que luchar para evitar ser aplastado por la tribu",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "phrase": " El asesinato es lo único que elimina al individuo que perjudica, de modo que la sociedad debe tomar el lugar de la víctima, y en su nombre exigir la expiación o el perdón",
+    "author": "W, H, Auden"
+  },
+  {
+    "phrase": " Es mejor ser violento si hay violencia en nuestros corazones que ponerse el manto de la no violencia para cubrir la impotencia",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "phrase": " Me opongo a la violencia porque cuando parece hacer el bien, el bien es solo temporal, El mal que hace es permanente",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "phrase": " Una fotografía es un secreto sobre un secreto, Cuanto más te diga, menos sabes",
+    "author": "Diane Arbus"
+  },
+  {
+    "phrase": " Un americano no tiene sentido de privacidad, No sabe lo que significa, No hay tal cosa en el país",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "phrase": " Otras cosas pueden cambiar, pero empezamos y terminamos con la familia",
+    "author": "Anthony Brandt"
+  },
+  {
+    "phrase": " La casa no descansa sobre el suelo, sino sobre una mujer",
+    "author": "Proverbio mexicano"
+  },
+  {
+    "phrase": " Hay algunos que solo emplean palabras con el propósito de disfrazar sus pensamientos",
+    "author": "Voltaire"
+  },
+  {
+    "phrase": " Estamos tan acostumbrados a disfrazarnos para los demás, que al final, nos disfrazamos para nosotros mismos",
+    "author": "François de la Rochefoucauld"
+  },
+  {
+    "phrase": " En un tiempo de falsedad universal, decir la verdad es un acto revolucionario",
+    "author": "George Orwell"
+  },
+  {
+    "phrase": " Ningún hombre necesita tanto unas vacaciones como el hombre que acaba de tenerlas",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "phrase": " Se ha dicho que el tiempo cura todas las heridas, No estoy de acuerdo, Las heridas permanecen, Con el tiempo, la mente, protegiendo su cordura, las cubre con una cicatriz, y el dolor disminuye, pero nunca desaparecen",
+    "author": "Rose Kennedy"
+  },
+  {
+    "phrase": " La prueba de la moralidad de una sociedad es lo que hace por sus hijos",
+    "author": "Dietrich Bonhoeffer"
+  },
+  {
+    "phrase": " De todos los animales, el hombre es el único que es cruel, Él es el único que inflige dolor por el placer de hacerlo",
+    "author": "Mark Twain"
+  },
+  {
+    "phrase": " Por el sufrimiento han surgido las almas más fuertes, Las personalidades más enormes están marcadas con cicatrices",
+    "author": "Khalil Gibran"
+  },
+  {
+    "phrase": " El hombre es menos auténtico cuando habla por sí mismo, Dale una máscara, y te dirá la verdad",
+    "author": "Oscar Wilde"
+  },
+  {
+    "phrase": " Aunque el mundo está lleno de sufrimiento, también está lleno de triunfos",
+    "author": "Hellen Keller"
+  },
+  {
+    "phrase": " Podemos fácilmente perdonar a un niño que tiene miedo de la oscuridad, La verdadera tragedia de la vida es cuando los hombres tienen miedo de la luz",
+    "author": "Platón"
+  },
+  {
+    "phrase": " No es tan importante quién comienza el juego, sino quién lo termina",
+    "author": "John Wooden"
+  },
+  {
+    "phrase": " La elección fundamental de un hombre, en cuanto a lo que le es dado a trascender, es crear o destruir, amar u odiar",
+    "author": "Erich Fromm"
+  },
+  {
+    "phrase": " El crimen masacra inocentes para obtener un premio, y la inocencia lucha con todas sus fuerzas contra los intentos del crimen",
+    "author": "Maximilien Robespierre"
+  },
+  {
+    "phrase": " Si los hombres solo pudieran conocerse, no idolatrarían ni odiarían",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "phrase": " Recuerda que a lo largo de la historia ha habido tiranos y asesinos, y por un tiempo, parecen invencibles, Pero al final, siempre caen, Siempre",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "phrase": " Algunas de las mejores lecciones son aprendidas de los errores del pasado, El error del pasado es la sabiduría del futuro",
+    "author": "Dale Turner"
+  },
+  {
+    "phrase": " Para aprender las lecciones más importantes de la vida, uno debe superar un miedo cada día",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "phrase": " Entre la idea y la realidad, entre el movimiento y el acto, cae la sombra",
+    "author": "T, S, Eliot"
+  },
+  {
+    "phrase": " Entre el deseo y el espasmo, entre la potencialidad y la existencia, entre la esencia y el descenso, cae la sombra, Esta es la manera en que el mundo termina",
+    "author": "T, S, Eliot"
+  },
+  {
+    "phrase": " Todos los secretos son profundos, Todos los secretos se vuelven oscuros, Eso está en la naturaleza de los secretos",
+    "author": "Coral Doctorow"
+  },
+  {
+    "phrase": " El mal causa que los hombres se junten",
+    "author": "Aristóteles"
+  },
+  {
+    "phrase": " Yo no tenía nada en contra de ellos, y nunca me hicieron ningún mal, de la forma en que otras personas lo hicieron durante toda mi vida, Tal vez, son solo los que tienen que pagar por ello",
+    "author": "Perry Smith"
+  },
+  {
+    "phrase": " No hay un hombre justo sobre la Tierra que haga lo que es correcto y nunca peque",
+    "author": "Eclesiastés 7:20"
+  },
+  {
+    "phrase": " De los deseos más profundos, a menudo, viene el odio más mortífero",
+    "author": "Sócrates"
+  },
+  {
+    "phrase": " Nuestra vida está construida sobre la muerte de otros",
+    "author": "Leonardo Da Vinci"
+  },
+  {
+    "phrase": " Si debe haber problemas, que sea en mi día, que mi hijo pueda tener paz",
+    "author": "Thomas Paine"
+  },
+  {
+    "phrase": " La tragedia es una herramienta para que los vivos adquieran sabiduría, no una guía para vivir",
+    "author": "Robert Kennedy"
+  },
+  {
+    "phrase": " La tortura de una mala conciencia es el infierno de un alma viviente",
+    "author": "John Calvin"
+  },
+  {
+    "phrase": " Vive como si fueras a morir mañana, Aprende, como si fueras a vivir para siempre",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "phrase": " No puede haber bien sin mal",
+    "author": "Proverbio ruso"
+  },
+  {
+    "phrase": " Las familias felices son todas iguales, Cada familia infeliz, es infeliz a su propia manera",
+    "author": "León Tolstói"
+  },
+  {
+    "phrase": " Nada es permanente en este mundo perverso, Ni siquiera nuestros problemas",
+    "author": "Charles Chaplin"
+  },
+  {
+    "phrase": " Elijo a mis amigos por su buena apariencia, a mis conocidos por su buen carácter y a mis enemigos por sus intelectos",
+    "author": "Oscar Wilde"
+  },
+  {
+    "phrase": " El que controla a otros puede ser poderoso, pero el que se ha dominado a sí mismo, es aún más poderoso",
+    "author": "Lao Tsé"
+  },
+  {
+    "phrase": " Ganas fuerza, valor y confianza por cada experiencia en la que dejas de mirar a la cara al miedo, Debes hacer lo que crees que no puedes hacer",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "phrase": " En la ciudad, el crimen se toma como emblema de clase y raza, En los suburbios es íntimo y psicológico, resistente a la generalización, un misterio del alma del individuo",
+    "author": "Barbara Ehrenreich"
+  },
+  {
+    "phrase": " Nada es más fácil que denunciar al malhechor, Nada es más difícil que entenderlo",
+    "author": "Fiodor Dostoievski"
+  },
+  {
+    "phrase": " Los cuentos de hadas no dicen a los niños que los dragones existen, los niños ya saben que los dragones existen, Los cuentos de hadas cuentan a los niños que los dragones pueden ser asesinados",
+    "author": "G, K, Chesterton"
+  },
+  {
+    "phrase": " Un reino en la Tierra no puede existir sin la desigualdad de las personas, Algunos deben ser libres, algunos son siervos, algunos son soberanos, algunos son súbditos",
+    "author": "Martín Lutero"
+  },
+  {
+    "phrase": " Ama a todos, Confía en unos pocos, No le hagas mal a nadie",
+    "author": "William Shakespeare"
+  },
+  {
+    "phrase": " Después de todo, Superman es una forma de vida extraterrestre, Él es, simplemente, el rostro aceptable de las realidades que nos invaden",
+    "author": "Clive Barker"
+  },
+  {
+    "phrase": " No importa quién era mi padre, lo que importa es quién recuerdo que era",
+    "author": "Anne Sexton"
+  },
+  {
+    "phrase": " Ningún hombre o mujer que intente perseguir un ideal a su propia manera, carece de enemigos",
+    "author": "Daisy Bates"
+  },
+  {
+    "phrase": " Soy consciente del mal que intento hacer, pero mi furia es más fuerte que todos mis pensamientos… una furia que trae los mayores males sobre los mortales",
+    "author": "Eurípides"
+  },
+  {
+    "phrase": " No hay una fórmula para el éxito, excepto quizás una aceptación incondicional de la vida y de lo que ella trae",
+    "author": "Arthur Rubinstein"
+  },
+  {
+    "phrase": " Lo más auténtico que tenemos es nuestra capacidad de crear, de superar, de soportar, de transformar, de amar y de ser más grandes que nuestro sufrimiento",
+    "author": "Ben Okri"
+  }
 ]

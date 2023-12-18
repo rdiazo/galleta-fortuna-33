@@ -1,9 +1,12 @@
 
 const Phrase = ({ quoteRandom }) => {
-    
+
     return (
-        <p className="app__phrase">{ quoteRandom.phrase }</p>
-       )
+        <div>
+            <p className="app__phrase">{quoteRandom.phrase}</p>
+            <p className="app__author">{quoteRandom.author} </p>
+        </div>
+    )
 }
 
 export default Phrase
